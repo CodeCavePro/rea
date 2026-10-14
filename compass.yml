@@ -1,0 +1,16 @@
+name: rea
+id: ari:cloud:compass:03d65e25-e64b-4f9b-a03c-ee77eb7ca52c:component/35f21fc9-0ad4-430a-b567-79e14ff0d558/f393eb5e-e77c-4658-a598-7d553e32b0b2
+description: Reverse engineer anything with agents, from app behavior down to native binaries.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/CodeCavePro/rea
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
